@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marija</title>
+    <link rel="stylesheet" href="biography.css">
+</head>
+<body>
+<div class="main-container">
+    <nav>
+        <a class="header-nav" href="biography.html">BIOGRAPHY</a>
+        <a class="header-nav" href="education.html">EDUCATION</a>
+        <a class="header-nav" href="interests.html">INTERESTS</a>
+        <a class="header-nav" href="contact.html">CONTACT</a>
+    </nav>
+
+    <div class="short-biography" id="biography">
+        <h1>WELCOME!</h1>
+        <p>
+            Hi! Good to see you here!<br> Welcome to my webpage! Here you'll learn more about me as a person, as well as a small biography about me,
+            my education and my interests!<br>So let's begin shall we?<br>I was born in Skopje in 2003 and I was raised here as well. I live in the Gjorche Petrov suburb with my parents
+            and my younger brother. I am a student at the Faculty of Computer Science and Engineering. I just finished my first year hear and although it is
+            not exactly a walk in the park, I can say that if you put your mind to it you can accomplish anything!
+        </p>
+    </div>
+</div>
+</body>
+</html>
