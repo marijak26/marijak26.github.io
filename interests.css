@@ -1,0 +1,82 @@
+p
+{
+    font-family: Arial, sans-serif;
+}
+.main-container
+{
+    background: url("background.jpg") no-repeat;
+    height: 518px;
+    width: 1200px;
+}
+nav a
+{
+    display: inline-flex;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-indent: 20px;
+    flex-wrap: nowrap;
+    height: auto;
+    margin-top: 10px;
+    border-left: 1px solid white;
+    margin-right: 10px;
+    margin-left:-2px;
+}
+#interests p
+{
+    display: inline-block;
+    width:400px;
+    font-size:10px;
+    color: white;
+}
+#interests p:first-child
+{
+    display: inline-block;
+    text-align: right;
+    margin-right:400px;
+    margin-left:50px;
+    margin-top:20px;
+    border-top:solid 1px white;
+    border-bottom:solid 1px white;
+
+}
+#interests ul li:first-child
+{
+    background: url("forca.jpg") no-repeat right;
+    display: inline-block;
+    height: 130px;
+    margin-top:30px;
+
+}
+
+#interests ul li:nth-child(2) p
+{
+    display: inline-block;
+    text-align: left;
+    margin-left:370px;
+    margin-top:50px;
+    border-top:solid 1px white;
+    border-bottom:solid 1px white;
+}
+#interests ul li:nth-child(2)
+{
+    background: url("astronomy.jpg") no-repeat left;
+    display: inline-block;
+    height: 130px;
+    margin-left:150px;
+
+}
+#interests ul li:last-child p
+{
+    display: inline-block;
+    text-align: right;
+    border-top:solid 1px white;
+    border-bottom:solid 1px white;
+    margin-top:10px;
+}
+#interests ul li:last-child
+{
+    background: url("Breaking-Bad.jpg") no-repeat right;
+    display: inline-block;
+    height: 130px;
+}

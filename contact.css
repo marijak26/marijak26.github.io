@@ -1,0 +1,55 @@
+p
+{
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+}
+.main-container
+{
+    background: url("background.jpg") no-repeat;
+    height: 518px;
+    width: 1200px;
+
+}
+nav a{
+    display: inline-flex;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-indent: 20px;
+    flex-wrap: nowrap;
+    height: auto;
+    margin-top: 10px;
+    border-left: 1px solid white;
+    margin-right: 10px;
+    margin-left:-2px;
+}
+#contact p
+{
+    display: inline-block;
+    width:500px;
+    margin-top:-22%;
+    margin-left:-89%;
+    font-size:14px;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+}
+#contact a
+{
+    color:deepskyblue;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    margin-top:45px;
+}
+#contact
+{
+    background: url("mail.png") no-repeat;
+    height: 179px;
+    width: 179px;
+    display: inline-block;
+    margin-left:40%;
+    margin-top:15%;
+}
+
